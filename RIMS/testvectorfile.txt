@@ -1,0 +1,6 @@
+b00000000
+wait 100 ms
+assert b00000000
+assert b00000001
+wait 100 ms
+assert b00000001
